@@ -122,4 +122,4 @@ if __name__ == '__main__':
 ![png](output_1_7.png)
 
 
-yaiiiiiii
+not yaiii
